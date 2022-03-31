@@ -1,4 +1,44 @@
-## CP255 Term Project: Analyzing Safety and Equity Implications of Bikeshare Locations in Washington, D.C. 
+# CP255 Urban Informatics Term Project
+
+# Analyzing Safety and Equity Implications of Bikeshare Locations in Washington, D.C. 
+
+_Created by Sydney Maves | 5.9.2022_
+
+## Research Idea
+
+
+## Guiding Research Questions
+
+## Methodology
+### Tools
+
+### Datasets
+
+### Approach
+
+## Data Exploration & Local Context
+
+## Key Findings
+
+## References 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/sydneymaves/DC-BikeShare-TermProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
