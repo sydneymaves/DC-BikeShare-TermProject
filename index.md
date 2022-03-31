@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CP255 Term Project: Analyzing Safety and Equity Implications of Bikeshare Locations in Washington, D.C. 
 
 You can use the [editor on GitHub](https://github.com/sydneymaves/DC-BikeShare-TermProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
